@@ -1,5 +1,36 @@
 # 💫 About Me:
-Hi, I'm Mahan, a JavaScript developer focused on building real-world web applications and continuously improving my development skills.<br><br>I started my JavaScript journey from the fundamentals and gradually moved into more advanced concepts such as DOM manipulation, asynchronous JavaScript, Promises, Fetch API, Classes, Modules, LocalStorage, and Regular Expressions.<br><br>I enjoy learning by building projects rather than only following tutorials. Some of my recent projects include TaskFlow, a responsive task and habit management app, and Joy Movie, a movie and TV show search application connected to the OMDB API.<br><br>I'm currently strengthening my JavaScript skills through more practical projects and preparing to move into TypeScript and React, with the long-term goal of becoming a well-rounded developer capable of working across both frontend and backend technologies.<br><br>I believe the best way to improve is to build, make mistakes, debug, and keep learning.
+I'm Mahan, a self-taught JavaScript developer building my skills through
+real projects instead of just tutorials.
+
+I started learning JavaScript from complete scratch, going project-first
+from day one. I've worked through the fundamentals (variables, loops,
+functions, arrays), DOM manipulation, modern JS (array methods, objects,
+JSON), asynchronous JavaScript (Promises, async/await, Fetch API), and
+more advanced topics like Classes, Modules, LocalStorage, and Regular
+Expressions.
+
+**Projects I've built:**
+- **TaskFlow** — a task and habit management app with LocalStorage
+  persistence and a fully responsive layout
+- **Movie Joy** — a live movie/show search app connected to the OMDB API,
+  with race-condition handling and a glassmorphism UI
+- **PennyTrack** — an income/expense tracker with a fully dynamic donut
+  chart built entirely with CSS (`conic-gradient`), no chart libraries
+
+Each project pushed me a bit further than the last — TaskFlow taught me
+the basics of structuring a real app, Movie Joy introduced working with
+live APIs, and PennyTrack got me properly thinking about data modeling
+and state management for the first time.
+
+I'm currently working through more vanilla JavaScript projects to solidify
+what I've learned before moving into TypeScript and React, with backend
+(Node.js, Express, databases) after that. Long-term, I want to be a
+well-rounded full-stack developer.
+
+My approach to learning is simple: build something, break it, figure out
+why, fix it, and move on to the next thing. I'd rather spend three extra
+days debugging my own mistake than skip past it with a shortcut — that's
+usually where the actual learning happens.
 
 
 ## 🌐 Socials:
