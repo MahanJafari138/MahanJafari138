@@ -1,37 +1,23 @@
 # 💫 About Me:
-I'm Mahan, a self-taught JavaScript developer building my skills through
-real projects instead of just tutorials.
+# Hi, I'm Mahan 👋
 
-I started learning JavaScript from complete scratch, going project-first
-from day one. I've worked through the fundamentals (variables, loops,
-functions, arrays), DOM manipulation, modern JS (array methods, objects,
-JSON), asynchronous JavaScript (Promises, async/await, Fetch API), and
-more advanced topics like Classes, Modules, LocalStorage, and Regular
-Expressions.
+Self-taught web developer from Sari, Iran.
+I learn by building, and every project teaches me something I couldn't get from a tutorial.
 
-**Projects I've built:**
-- **TaskFlow** — a task and habit management app with LocalStorage
-  persistence and a fully responsive layout
-- **Movie Joy** — a live movie/show search app connected to the OMDB API,
-  with race-condition handling and a glassmorphism UI
-- **PennyTrack** — an income/expense tracker with a fully dynamic donut
-  chart built entirely with CSS (`conic-gradient`), no chart libraries
+## Projects
+Built with vanilla HTML, CSS & JavaScript, no frameworks:
 
-Each project pushed me a bit further than the last — TaskFlow taught me
-the basics of structuring a real app, Movie Joy introduced working with
-live APIs, and PennyTrack got me properly thinking about data modeling
-and state management for the first time.
+- **TaskFlow**: task and habit manager
+- **Movie Joy**: live movie search powered by the OMDB API
+- **PennyTrack**: expense tracker with a pure-CSS donut chart
+- **CartRush**: game price-checking site with live search, slider and cart
 
-I'm currently working through more vanilla JavaScript projects to solidify
-what I've learned before moving into TypeScript and React, with backend
-(Node.js, Express, databases) after that. Long-term, I want to be a
-well-rounded full-stack developer.
+## Now
+Learning TypeScript and React.
+Long-term goal: **Zivo**, a video platform built for Iranian users.
 
-My approach to learning is simple: build something, break it, figure out
-why, fix it, and move on to the next thing. I'd rather spend three extra
-days debugging my own mistake than skip past it with a shortcut — that's
-usually where the actual learning happens.
-
+## Stack
+HTML · CSS · JavaScript (ES6+)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahan-jafari-292697428/?isSelfProfile=true‏) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MR.mahan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.mahanoffice@gmail.com) 
